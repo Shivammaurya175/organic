@@ -62,5 +62,5 @@
 @endphp
 
 <h4>Total: ₹{{ $total }}</h4>
-<h1>imran</h1>
+<h1>imran  aaa</h1>
 @endsection
